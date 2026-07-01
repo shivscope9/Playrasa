@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "PLAYRASA",
+    "slug": "playrasa",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "shortdrama",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.playrasa.app"
+    },
+    "ios": {
+      "bundleIdentifier": "com.playrasa.app"
+    },
+    "plugins": []
+  }
+}
